@@ -19,20 +19,20 @@ Picture
 ![Real_Beauty](https://github.com/user-attachments/assets/ea13d6d8-d953-4848-bf08-6269c946b28b)
 
 I2V - Image to Video utilizing Sand ai - Mogi1 (RAW)
+
 ![Mogi1_Real_Beauty](https://github.com/user-attachments/assets/2d30e6c5-7452-41c1-86f2-8d4258742de1)
 
 
 With normal editing 
 
-
-https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
+![RB_NormalEditing]https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
 
 **Sample 2 - White Di Cat**
 **Picture:** 
 ![image (33)](https://github.com/user-attachments/assets/e26f05e2-273d-4fac-b514-95abbcf39c5b)
 
-I2V - Image to Video
-https://github.com/user-attachments/assets/93426cbc-5036-4120-89ff-26ac3208ae53
+I2V - Image to Video [Normal Editing]
+![WhiteDiCat_video]https://github.com/user-attachments/assets/93426cbc-5036-4120-89ff-26ac3208ae53
 
 **Other Sample**
-[Sample1.pdf](https://github.com/user-attachments/files/19902270/Sample1.pdf)
+![Sample1.pdf](https://github.com/user-attachments/files/19902270/Sample1.pdf)
