@@ -14,7 +14,7 @@ Easily integrates into transformer ecosystems
 
 
 **Sample 1 - Real Beauty**
-Picture
+\n Picture
 ![image (43)](https://github.com/user-attachments/assets/ea13d6d8-d953-4848-bf08-6269c946b28b)
 
 https://github.com/user-attachments/assets/2d30e6c5-7452-41c1-86f2-8d4258742de1
