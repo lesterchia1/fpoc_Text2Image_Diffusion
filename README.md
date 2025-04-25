@@ -32,7 +32,8 @@ https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
 ![Image](https://github.com/user-attachments/assets/e26f05e2-273d-4fac-b514-95abbcf39c5b)
 
 I2V - Image to Video [Normal Editing]
-![WhiteDiCat_video](https://github.com/user-attachments/assets/93426cbc-5036-4120-89ff-26ac3208ae53)
+
+https://github.com/user-attachments/assets/93426cbc-5036-4120-89ff-26ac3208ae53
 
 **Other Sample**
 
