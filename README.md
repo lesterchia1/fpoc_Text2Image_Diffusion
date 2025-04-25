@@ -24,8 +24,7 @@ I2V - Image to Video utilizing Sand ai - Mogi1 (RAW)
 
 
 With normal editing 
-
-![RB_NormalEditing]https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
+https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
 
 **Sample 2 - White Di Cat**
 **Picture:** 
