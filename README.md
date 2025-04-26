@@ -33,6 +33,10 @@ Transformers like DiT are expected to dominate large-scale generative modeling, 
 
 📖 Source: DiT Paper (Peebles & Xie, 2022)
 
+Develop a Gardio UI with Python utilising PixArt-alpha pipline from hugging face to generating images (T2I - text to image generation)
+Using image to generate into video thru using HaiLuo AI and/or Mogi1
+
+![Custom_madeUI](https://github.com/user-attachments/assets/eb965233-b021-4e19-8e7d-0904a214aad0)
 
 **Sample 1 - Real Beauty**
 
@@ -44,7 +48,7 @@ I2V - Image to Video utilizing Sand ai - Mogi1 (RAW)
 ![Raw_video](https://github.com/user-attachments/assets/2d30e6c5-7452-41c1-86f2-8d4258742de1)
 
 
-With normal editing 
+With normal editing (Mogi1|Cap-cut)
 
 https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
 
@@ -55,6 +59,22 @@ https://github.com/user-attachments/assets/ad6160dc-a616-41d7-9a1f-005ec6c946ef
 I2V - Image to Video [Using Moji1 and Normal Video Editor]
 
 https://github.com/user-attachments/assets/93426cbc-5036-4120-89ff-26ac3208ae53
+
+**Sample 3 - BombiBi Panda**
+**Picture:**
+![Panda_container_sc1](https://github.com/user-attachments/assets/4389dbfb-51a9-4ff7-a8ff-ec06d9a95da0)
+![Panda_container_sc2](https://github.com/user-attachments/assets/05a13769-1293-49db-a1fb-74997564bc16)
+![Panda_container_sc4](https://github.com/user-attachments/assets/8d07e1ca-fb81-4dec-a7a3-0ebab9bd0625)
+![Panda_container_sc5](https://github.com/user-attachments/assets/ffbae78c-5464-4568-be24-517b49fbc650)
+![image (6)](https://github.com/user-attachments/assets/0a103290-e151-4486-a58d-25f979c34c52)
+![Panda_container_sc3](https://github.com/user-attachments/assets/0a95e366-840f-43ed-bb6f-397b085583da)
+
+I2V - Image to Video [Using Moji1 and Normal Video Editor]
+
+https://github.com/user-attachments/assets/e4b47add-5458-4351-b396-34e9814b48be
+
+
+
 
 **Other Sample**
 [Sample1.pdf](https://github.com/user-attachments/files/19902634/Sample1.pdf)
