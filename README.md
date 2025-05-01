@@ -38,6 +38,9 @@ Using image to generate into video thru using HaiLuo AI and/or Mogi1
 
 ![Custom_madeUI](https://github.com/user-attachments/assets/eb965233-b021-4e19-8e7d-0904a214aad0)
 
+Model used : PixArt-α   
+PixArt-α is a Transformer-based T2I diffusion model whose image generation quality is competitive with state-of-the-art image generators (e.g., Imagen, SDXL, and even Midjourney), and the training speed markedly surpasses existing large-scale T2I models, e.g., PixArt-α only takes 10.8% of Stable Diffusion v1.5's training time (675 vs. 6,250 A100 GPU days).
+
 **Sample 1 - Real Beauty**
 
 Picture
